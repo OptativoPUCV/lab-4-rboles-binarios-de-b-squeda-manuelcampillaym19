@@ -4,3 +4,9 @@ do., 21 de sep. de 2025 18:59:12:
  tests:  8|5
 total_score: 15/70
 5729e4d
+do., 21 de sep. de 2025 19:00:56: 
+ treemap.c | 29 ++++++++++++++++++++++++++++-
+ 1 file changed, 28 insertions(+), 1 deletion(-)
+ tests:  8|5
+total_score: 15/70
+63ad509
